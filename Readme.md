@@ -1,5 +1,5 @@
 👋 Hey there! Welcome to my GitHub.
-I'm a self-taught learner diving deep into the worlds of cybersecurity and software development. I believe in the power of technology to create, protect, and inspire — and I'm here to build, break, and learn every day.
+I'm a self-taught learner diving deep into the worlds of cybersecurity and software development. I believe in the power of technology to create, protect, and inspire and I'm here to build, break, and learn every day.
 
 🔐 Cybersecurity Enthusiast | 💻 Aspiring Software Developer<br/>
 🌱 Currently learning cybersecurity fundamentals, ethical hacking, and secure coding practices<br/>
