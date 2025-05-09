@@ -3,11 +3,11 @@ I'm a self-taught learner diving deep into the worlds of cybersecurity and softw
 
 🔐 Cybersecurity Enthusiast | 💻 Aspiring Software Developer<br/>
 🌱 Currently learning cybersecurity fundamentals, ethical hacking, and secure coding practices<br/>
-🛠️ Building skills in software development with a focus on clean, secure code
-📚 Active on platforms like TryHackMe, Hack The Box, and following structured roadmaps
-🔄 Practicing version control with Git & GitHub to track my projects and growth
-👀 Interested in SOC analysis, scripting, and system security
-💡 Always curious, always improving
+🛠️ Building skills in software development with a focus on clean, secure code<br/>
+📚 Active on platforms like TryHackMe, Hack The Box, and following structured roadmaps<br/>
+🔄 Practicing version control with Git & GitHub to track my projects and growth<br/>
+👀 Interested in SOC analysis, scripting, and system security<br/>
+💡 Always curious, always improving<br/>
 
 
 ## 🌐 Socials:
